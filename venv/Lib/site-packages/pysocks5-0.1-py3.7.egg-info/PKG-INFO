@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: pysocks5
+Version: 0.1
+Summary: pysocks5: A lightweight forward and backward socks5 proxy server written with python.
+Home-page: https://github.com/pandolia/pysocks5/
+Author: pandolia
+Author-email: pandolia@yeah.net
+License: UNKNOWN
+Download-URL: https://github.com/pandolia/pysocks5/archive/0.1.tar.gz
+Description: UNKNOWN
+Keywords: tcp,proxy,socks5,backward proxy
+Platform: UNKNOWN
